@@ -21,4 +21,4 @@ A pokedex apresenta de forma organizada e atraente uma lista de pokémons da pri
 HTML, CSS e JavaScript para a construção do site.
 Integração com API (PokeApi) para pegar informações dos pokémons.
 
-<img src="https://ibb.co/88T4qVx" alt="pokedex">
+<img src="https://imgur.com/ogqqAZs" alt="pokedex">
